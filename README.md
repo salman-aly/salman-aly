@@ -1,8 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://media.istockphoto.com/id/1290455818/vector/programming-coding-neural-network-and-artificial-intelligence-or-ai-software-develop.jpg?s=612x612&w=0&k=20&c=eVVUTVPG0d4KusaADehFdSquOfBkd0-3TuIgmPssJQw=)
 <h1 align="center">Hi 👋, I'm Salman aly</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-photo/3d-render-software-testing-concept-with-computer_34778544.htm#page=2&query=developer%20banner%20image&position=42&from_view=search&track=ais")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-aly&label=Profile%20views&color=0e75b6&style=flat" alt="salman-aly" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salman-aly" alt="salman-aly" /></a> </p>
