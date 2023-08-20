@@ -18,4 +18,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salman-aly&show_icons=true&locale=en&layout=compact" alt="salman-aly" /></p>
 
-<figure><embed src="https://wakatime.com/share/@b724781b-e5f5-4d81-9d55-74af67e42070/0d5ce6a6-1a4e-4003-9101-686d83f991fb.svg"></embed></figure>
