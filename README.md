@@ -30,3 +30,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedrazabaloch" alt="ahmedrazabaloch" /></a> </p>
 
+
+
+<embed src="https://wakatime.com/share/@salmanali/40b16a4e-5d09-45e4-899f-cbf21b68a1d0.svg"></embed>
+
