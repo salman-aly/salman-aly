@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Salman aly</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-aly&label=Profile%20views&color=0e75b6&style=flat" alt="salman-aly" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salman-aly" alt="salman-aly" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-aly&label=Profile%20views&color=0e75b6&style=flat" alt="salman-aly" /> <img src="https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg" title="My Coding Stats" />
+ </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
