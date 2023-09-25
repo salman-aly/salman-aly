@@ -5,8 +5,9 @@
 <h1 align="center">Hi 👋, I'm Salman aly</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-aly&label=Profile%20views&color=0e75b6&style=flat" alt="salman-aly" /> <img src="https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg" title="My Coding Stats" />
- </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-aly&label=Profile%20views&color=0e75b6&style=flat" alt="salman-aly" /><img align="right" alt="Coding" width="400" style="border-radius:20px;"
+	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+ <img src="https://wakatime.com/badge/user/b724781b-e5f5-4d81-9d55-74af67e42070.svg" >
 
 - 🌱 I’m currently learning **JavaScript**
 
