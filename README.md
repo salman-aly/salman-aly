@@ -29,4 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salman-aly&show_icons=true&locale=en" alt="salman-aly" /></p>
 
+[![An image of @salmanaly's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salmanaly)](https://holopin.io/@salmanaly)
+
 
