@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://salmanaly.netlify.app](https://salmanaly.netlify.app)
+- 👨‍💻 All of my projects are available at [Salman Ali Portfolio](https://salmanaly.netlify.app)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
 
