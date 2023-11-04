@@ -18,7 +18,7 @@
   <br/>
   <br/>
 
-  <h1 align="left">🔥   My Stats :</h1>
+  <h1 align="left">🔥   My Status :</h1>
 
 ###
 
