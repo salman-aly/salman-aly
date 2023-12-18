@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Salman Ali Portfolio](https://salmanaly.netlify.app)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
+- 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCss, JavaScript, EcmaScript-6,Git,GitHub,Pwa**
 
   <br/>
   <br/>
