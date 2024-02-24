@@ -9,7 +9,7 @@
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
  <img src="https://wakatime.com/badge/user/b724781b-e5f5-4d81-9d55-74af67e42070.svg" >
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **TypeScript,NextJS & MongoDB**
 
 - 👨‍💻 All of my projects are available at [Salman Ali Portfolio](https://salmanaly.netlify.app)
 
