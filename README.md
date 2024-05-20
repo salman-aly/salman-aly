@@ -19,8 +19,8 @@
 <h1 align="left">🔥 My Status :</h1>
 
 <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=salman-aly&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=salman-aly&theme=vision-friendly-dark&hide_border=false)<br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=salman-aly&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman-aly&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salman-aly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&cache_bust=1" height="150" alt="languages graph" />
 </div>
 
