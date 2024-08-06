@@ -19,9 +19,9 @@
 <h1 align="left">🔥 My Status :</h1>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=salman-aly&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman-aly&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salman-aly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&cache_bust=1" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salman-aly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=salman-aly&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=3&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=salman-aly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
 <h3 align="left">🌐 Connect with me:</h3>
