@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Salman Ali Portfolio](https://salmanaly.netlify.app)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCSS, JavaScript, ECMAScript-6, React, Git, GitHub, PWA**
+- 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCSS, JavaScript, ECMAScript-6, React, Next.js , React Native, Git, GitHub, PWA**
 
 <h1 align="left">🔥 My Status :</h1>
 
