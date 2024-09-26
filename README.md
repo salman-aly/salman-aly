@@ -10,7 +10,7 @@
     <img src="https://wakatime.com/badge/user/b724781b-e5f5-4d81-9d55-74af67e42070.svg" alt="Wakatime badge">
 </p>
 
-- 🌱 I’m currently learning **TypeScript, NextJS & MongoDB**
+- 🌱 I’m currently learning **TypeScript & MongoDB**
 
 - 👨‍💻 All of my projects are available at [Salman Ali Portfolio](https://salmanaly.netlify.app)
 
