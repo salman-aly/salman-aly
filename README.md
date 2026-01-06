@@ -1,70 +1,109 @@
-<img align="right" alt="Coding" style="border-radius:16px;"
-	src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
 
-<h1 align="center">Hi 👋, I'm Salman Aly</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Salman Ali</h1>
+<h3 align="center">MERN Stack Developer | React | Next.js | React Native</h3>
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=salman-aly&label=Profile%20views&color=0e75b6&style=flat" alt="salman-aly" />
-    <img align="right" alt="Coding" width="400" style="border-radius:20px;" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-    <img src="https://wakatime.com/badge/user/b724781b-e5f5-4d81-9d55-74af67e42070.svg" alt="Wakatime badge">
-</p>
+### 👋 About Me
 
-- 🌱 I’m currently learning **TypeScript & MongoDB**
+Hi, I'm **Salman Ali**, a passionate **MERN Stack Developer** from Pakistan with over **2 years of professional experience** building responsive, high-performance web and mobile applications.
 
-- 👨‍💻 All of my projects are available at [Salman Ali Portfolio](https://salmanaly.netlify.app)
+- 💻 I build apps using **React.js**, **Next.js**, and **React Native**.  
+- 🌱 Currently leveling up in **TypeScript**, **Node.js**, **Express.js**, and **MongoDB**.  
+- 🧩 Experienced with **WordPress** and **Shopify**, delivering client-focused web solutions.  
+- 🧑‍💼 **Level Two Seller on Fiverr**, with **50+ projects** completed for international clients.  
+- 🎯 Focused on clean UI, performance optimization, and growing toward a **full-stack MERN** role.  
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCSS, JavaScript, ECMAScript-6, React, Next.js , React Native, Git, GitHub, PWA**
+---
 
-<h1 align="left">🔥 My Status :</h1>
+### 👯 I’m looking to collaborate on
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salman-aly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=salman-aly&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=3&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=salman-aly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-</div>
+- Interesting **React / Next.js / MERN** projects.  
+- **Frontend-heavy** apps where performance and UX matter.  
 
-<h3 align="left">🌐 Connect with me:</h3>
-<div align="center">
-    <a href="https://www.facebook.com/salman.aly.1671/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo" />
-    </a>
-    <a href="https://wa.me/923142798165" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo" />
-    </a>
-    <a href="https://www.linkedin.com/in/salmanali21/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-    </a>
-    <a href="https://www.instagram.com/salman__aly/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
-    </a>
-</div>
+### 🤝 I’m looking for help with
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" alt="illustrator logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="photoshop logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-</div>
+- Advanced **Node.js**, **Express**, and **MongoDB** patterns.  
+- Best practices for **API design**, **authentication**, and **scalable backends**.  
 
-<br/>
-<br/>
+### 🌱 I’m currently learning
+
+- **TypeScript** for safer React/Next.js apps.  
+- **Node.js**, **Express.js**, and **MongoDB** for full-stack development.  
+- Deployment workflows with **Vercel**, **Netlify**, and **CI/CD** concepts.  
+
+### 💬 Ask me about
+
+- **React.js**, **Next.js**, **React Native**  
+- **Tailwind CSS**, **Bootstrap**, **MUI**, **Ant Design**  
+- **WordPress**, **Shopify**, **PWA**, **Responsive UI**  
+- Freelancing, Fiverr experience, and dealing with international clients.  
+
+### ⚡ Fun fact
+
+- I love turning **Figma designs into pixel-perfect UIs** and solving tricky UI bugs feels like solving puzzles 🧩
+
+---
+
+#### ⌛ WakaTime (Coding Hours) Status
+
+[![wakatime](https://wakatime.com/badge/user/b724781b-e5f5-4d81-9d55-74af67e42070.svg?style=for-the-badge)](https://wakatime.com/@b724781b-e5f5-4d81-9d55-74af67e42070)
+
+#### 👀 Profile Views
+
+![Github Visitor](https://komarev.com/ghpvc/?username=salman-aly&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
+---
+
+## 🌐 Socials:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/salman.aly.1671/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/salman__aly/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/salmanali21/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](https://salmanaly.netlify.app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/923142798165)
+
+---
+
+# 💻 Tech Stack:
+
+### 🚀 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+
+### ⚙️ State & Logic
+![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+
+### 🧩 Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Hosting & Services
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🛠 Tools & Workflow
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🛒 CMS & E-commerce
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-%23121011.svg?style=for-the-badge&logo=shopify&logoColor=white)
+
+---
 
 [![An image of @salmanaly's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salmanaly)](https://holopin.io/@salmanaly)
-```
