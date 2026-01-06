@@ -1,3 +1,4 @@
+<img src="https://github.com/salman-aly/salman-aly/blob/main/Salman%20Ali.png"> 
 
 <h1 align="center">Hi 👋, I'm Salman Ali</h1>
 <h3 align="center">MERN Stack Developer | React | Next.js | React Native</h3>
