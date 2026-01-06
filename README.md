@@ -34,12 +34,10 @@ Hi, I'm **Salman Ali**, a passionate **MERN Stack Developer** from Pakistan with
 
 - **React.js**, **Next.js**, **React Native**  
 - **Tailwind CSS**, **Bootstrap**, **MUI**, **Ant Design**  
+- **Node Js**, **Express Js**, **MongoDB**,  
 - **WordPress**, **Shopify**, **PWA**, **Responsive UI**  
 - Freelancing, Fiverr experience, and dealing with international clients.  
 
-### ⚡ Fun fact
-
-- I love turning **Figma designs into pixel-perfect UIs** and solving tricky UI bugs feels like solving puzzles 🧩
 
 ---
 
